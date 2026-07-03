@@ -1,0 +1,17 @@
+# Arquivos gerados pelo compilador/build do Rust
+/target/
+
+# Arquivos de log e despejo de memória em caso de pânico (crash)
+cargo-crash.log
+
+# Se você estiver usando alguma ferramenta de medição de performance ou testes específicos
+**/*.rs.bk
+
+# Arquivos temporários de IDEs (opcional, mas altamente recomendado)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
