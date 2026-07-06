@@ -6,9 +6,9 @@
 fn main() {
     let number:i32 = 10;
 
-    if (number  == 0) {
+    if number  == 0 {
         println!("O número inserido é 0!");
-    } else if (number < 0){
+    } else if number < 0{
         println!("O número inserido é negativo.");
     } else {
         println!("O número inserido é positivo.");

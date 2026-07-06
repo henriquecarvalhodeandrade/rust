@@ -1,0 +1,1 @@
+C:\Users\rique\Documents\GitHub\MyRepositories\rust\exercises\conditions\ and\ loops\ex05\target\debug\ex05.exe: C:\Users\rique\Documents\GitHub\MyRepositories\rust\exercises\conditions\ and\ loops\ex05\src\main.rs
